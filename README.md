@@ -10,6 +10,8 @@ A simple python program for daily life expenses list with UI.
 - Object oriented programming.
 - Iterable, iterator, and generator.
 - Time and Tkinter Module.
+# Snapshots
+<img src="expense-list.PNG" width ="800">
 # Program Explanation
 * Function :
   1. Set initial value money.
